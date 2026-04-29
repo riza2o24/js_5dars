@@ -44,7 +44,7 @@ const btns = ["Sign In ", "Sign up"]
 // hero
 const text="Want anything to be easy with LaslesVPN."
 
-const paragrf="Provide a network for all your needs with ease and fun using LaslesVPN discover interesting features from us."
+const paragrf="Provide a network for alll your needs with ease and fun using LaslesVPN discover interesting features from us."
 
 const btn="Get Started"
 
